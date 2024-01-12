@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navaneet</h1>
 <h3 align="center">A passionate Engineer in Electronics</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/headers/smeccea/4s76vgmSmSuV.gif">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://cdn.dribbble.com/users/695987/screenshots/4942508/media/9b0cbfdb9b89062d29ff288091646091.gif)" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/695987/screenshots/4942508/media/9b0cbfdb9b89062d29ff288091646091.gif">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainavaneet&show_icons=true&locale=en" alt="sainavaneet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainavaneet&" alt="sainavaneet" /></p>
-
