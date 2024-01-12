@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navaneet</h1>
 <h3 align="center">A passionate Engineer in Electronics</h3>
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/headers/smeccea/4s76vgmSmSuV.gif">
+<img align="right" alt="Coding" width="200" src="[https://media0.giphy.com/headers/smeccea/4s76vgmSmSuV.gif](https://banner2.cleanpng.com/20180421/kfe/kisspng-mechatronics-engineering-robotic-arm-technology-machinery-5adc0030e6a014.7454969415243674089447.jpg)">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
