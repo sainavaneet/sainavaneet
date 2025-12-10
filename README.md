@@ -17,12 +17,6 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 
 ## 📊 Contribution Visualizations
 
-### 🟩 3D Contribution Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="800">
-</p>
-
-### 🐍 Snake Contribution Animation
 <p align="center">
   <img src="https://github.com/sainavaneet/sainavaneet/blob/output/github-contribution-grid-snake.svg">
 </p>
@@ -80,15 +74,8 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile" width="480">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainavaneet&theme=transparent" width="480">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainavaneet&layout=compact&theme=transparent" width="380">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sainavaneet&theme=transparent&border_radius=5" width="48%" />
 </p>
 
 ---
