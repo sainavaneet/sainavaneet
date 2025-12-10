@@ -1,31 +1,28 @@
-name: Generate 3D Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Run GitHub-Profile-3D-Contrib
+      - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Upload output as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: profile-3d-output
-          path: profile-3d-contrib
-
-      - name: Push 3D output to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./profile-3d-contrib
-          publish_branch: output
+      - name: Commit and Push output
+        run: |
+          git config --local user.name "${{ github.actor }}"
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "Update 3D Contribution Graph" || echo "No changes to commit"
+          git push
