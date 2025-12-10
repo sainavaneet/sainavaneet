@@ -21,7 +21,12 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 
 ---
 
-## 📊 Contribution Visualizations
+## 📫 Contact
+<p align="center"> <a href="mailto:sainavaneet76@gmail.com"> <img src="https://img.shields.io/badge/Email-sainavaneet76%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/sainavaneet76/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Sai%20Navaneet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/sainavaneet" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-sainavaneet-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+---
+
+## 📊 Contributions
 
 <p align="center">
   <img src="https://github.com/sainavaneet/sainavaneet/blob/output/github-contribution-grid-snake.svg">
