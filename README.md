@@ -6,17 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://sainavaneet.github.io/portfolio/">
+  <a href="https://sainavaneet.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20all%20my%20Projects%20here-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764ba2" />
   </a>
 </p>
 
-
-
 ---
 
 ## 🚀 About Me
-I'm focused on developing scalable Vision-Language-Action (VLA) models and applying advanced state-space architectures (Mamba, Kalman-Mamba, LegMamba) to real robotic systems.  
+I'm focused on developing scalable Vision-Language-Action (VLA) models and applying advanced state-space architectures (Mamba, S4, S5) and Transformers to real robotic systems.  
 I have hands-on experience with manipulators, quadrupeds, AGVs, and multi-robot coordination.
 
 I enjoy pushing the boundary between **robotics, machine learning, and embodied intelligence**.
