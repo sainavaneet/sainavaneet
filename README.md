@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
+<p align="center">
+  <img src="./profile-3d-contrib/3d_contrib.svg" width="800">
+</p>
+
 ![Snake animation](https://github.com/sainavaneet/sainavaneet/blob/output/github-contribution-grid-snake.svg)
