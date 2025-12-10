@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sainavaneet.github.io/portfolio">
+  <a href="https://sainavaneet.github.io/portfolio/">
     <img src="https://img.shields.io/badge/View%20all%20my%20Projects%20here-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764ba2" />
   </a>
 </p>
