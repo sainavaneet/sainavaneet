@@ -1,7 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:0055ff,100:00ffaa&height=180&section=header&text=Sai%20Navaneet&fontSize=50&fontAlign=70&fontAlignY=30&animation=fadeIn&fontColor=ffffff&desc=Robotics%20Engineer%20|%20VLA%20Models&descSize=20&descAlign=70&descAlignY=60" />
-
-<h1 align="center">Hi, I'm Sai Navaneet 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:0055ff,100:00eaff&height=220&section=header&text=Sai%20Navaneet&fontSize=52&fontAlign=70&fontAlignY=30&animation=fadeIn&fontColor=ffffff&desc=Specialised%20in%20Robotic%20Manipulation&descSize=22&descAlign=70&descAlignY=60" />
 
 <p align="center">
   <b>Robotics Engineer • Vision-Language-Action Models • State-Space Architectures</b><br>
