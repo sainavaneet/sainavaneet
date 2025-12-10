@@ -5,6 +5,14 @@
   I build intelligent robotic systems using VLA frameworks, Mamba-based models, and real-world robot platforms.
 </p>
 
+<p align="center">
+  <a href="https://sainavaneet.github.io/portfolio">
+    <img src="https://img.shields.io/badge/View%20all%20my%20Projects%20here-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764ba2" />
+  </a>
+</p>
+
+
+
 ---
 
 ## 🚀 About Me
@@ -72,11 +80,9 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 ---
 
 ## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile" width="480"> </p> 
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sainavaneet&theme=transparent&border_radius=5" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainavaneet&theme=transparent" width="480"> </p>
 
 ---
 
