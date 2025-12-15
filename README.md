@@ -84,7 +84,7 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 
 ## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile" width="480"> </p> 
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=sainavaneet&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 🌐 Links
 <p>
