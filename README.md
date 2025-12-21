@@ -34,6 +34,19 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 
 ---
 
+
+## Github stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile"
+    width="420"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=sainavaneet"
+    width="420"
+  />
+</p>
+
 ## 🛠 Tech Stack
 
 ### **Robotics & Control**
@@ -81,17 +94,6 @@ I enjoy pushing the boundary between **robotics, machine learning, and embodied 
 - RealSense RGB-D pipelines for grasping tasks  
 
 ---
-## Github stats
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sainavaneet&show_icons=true&theme=transparent&rank_icon=percentile"
-    width="420"
-  />
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=sainavaneet"
-    width="420"
-  />
-</p>
 
 ## 🌐 Links
 <p>
