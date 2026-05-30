@@ -1,28 +1,28 @@
-name: GitHub-Profile-3D-Contrib
+# name: GitHub-Profile-3D-Contrib
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"   # Runs every day at midnight
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+#       - name: Generate 3D Profile
+#         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit and Push output
-        run: |
-          git config --local user.name "${{ github.actor }}"
-          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
-          git commit -m "Update 3D Contribution Graph" || echo "No changes to commit"
-          git push
+#       - name: Commit and Push output
+#         run: |
+#           git config --local user.name "${{ github.actor }}"
+#           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+#           git add .
+#           git commit -m "Update 3D Contribution Graph" || echo "No changes to commit"
+#           git push
